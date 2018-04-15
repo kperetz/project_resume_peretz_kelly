@@ -11,6 +11,8 @@ HTML5 Outliner:
 ## Resources
 I used this as a cheat sheet for git commands in terminal: https://www.git-tower.com/blog/git-cheat-sheet/
 
+jQuery plugin #1 was used to make a pop up window of the screen grab of my website's homepage: http://dimsemenov.com/plugins/magnific-popup/
+
 
 
 ## Deductions
