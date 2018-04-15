@@ -5,62 +5,76 @@
 }
 
 @font-face{
-
+font-family: 'Playfair Display', serif;
+font-family: 'Berkshire Swash', cursive;
+font-family: 'Raleway', sans-serif;
 }
 header{
-    
+    text-align: center;
+    background-image: url("../img/marble.jpeg");
+    width: 100%;
+    height: 100%;
+    margin: auto;
+   
+}
+body{
+    background-color: #cccccc;
+   width: 100%;
+   margin: auto;    
 }
 h1{
-    
+  font-family: 'Berkshire Swash', cursive; 
+  font-size: 2rem;
+   
 }
 h2{
-    
+  font-family: 'Berkshire Swash', cursive;
+  text-align: center;
 }
 h3{
-    
+  font-family: 'Playfair Display', serif; 
+  font-size: 1rem;    
 }
 h4{
-    
+  font-family: 'Playfair Display', serif; 
+  font-size:0.9rem;       
 }
-#address{
-    
-}
-#phone{
-    
-}
-#email{
-    
-}
+
 main{
     
 }
 #about{
+    background-color: #cccccc;
+    width: 50%;
+    margin:auto;
     
 }
 #education{
-    
+    background-color: #a6a6a6;
+}
+#Experience{
+    background-color: #8c8c8c;
 }
 section{
-    
+   padding: 15px; 
 }
 article{
     
 }
 p{
-    
+ font-family: 'Raleway', sans-serif; 
+ font-size: 0.9rem;    
 }
-ul{
-    
-}
+
 li{
-    
+  font-family: 'Playfair Display', serif; 
+  font-size:0.9rem;   
 }
 #skills{
-    
+   background-color: #666666;
 }
-.skill{
-    
-}
+
 footer{
     
 }
+
