@@ -17,6 +17,13 @@ header{
     margin: auto;
    
 }
+a{
+    color: #0d0d0d;
+    
+}
+a:hover {
+    color: #fff;
+}
 body{
     background-color: #cccccc;
    width: 100%;

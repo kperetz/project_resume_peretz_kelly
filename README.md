@@ -4,8 +4,8 @@ Kelly Peretz
 
 ## Links
 GitHub: 
-Web Host:
-W3C validator:
+Web Host: http://kellyperetz.com/project_resume_peretz_kelly/
+W3C validator: https://validator.w3.org/unicorn/check?ucn_uri=kellyperetz.com%2Fproject_resume_peretz_kelly%2F&ucn_task=conformance#
 HTML5 Outliner: https://gsnedders.html5.org/outliner/process.py
 
 ## Resources

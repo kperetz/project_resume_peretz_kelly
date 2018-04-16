@@ -34,6 +34,8 @@ $(function () {
     });
 });
 
-$('section').hover(function () {
-    $(this).css('background-color', '#ffe6f2');
+ $(document).ready(function(){
+    $('section').hover(function(){
+        $(this).css('background-color', '#fff');
+    }
 });
