@@ -1,11 +1,11 @@
-$(document).ready(function() {
+$(document).ready(function () {
 
 	$('.image-popup-fit-width').magnificPopup({
-		type: 'image',
-		closeOnContentClick: true,
-		image: {
-			verticalFit: false
-		}
+        type: 'image',
+        closeOnContentClick: true,
+        image: {
+            verticalFit: false
+        }
 	});
 
 	$('.image-popup-no-margins').magnificPopup({
@@ -21,6 +21,15 @@ $(document).ready(function() {
 			enabled: true,
 			duration: 300 // don't foget to change the duration also in CSS
 		}
-	});
+    });
 
+});
+
+$(function () {
+
+    $('.smooth').rlSmooth('slide', {
+        y: 20, //ms default settings for vertical window position
+        on: 200, // ms default settings effect speed
+        off: 200 // ms default settings effect speed
+    });
 });
