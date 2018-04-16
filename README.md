@@ -3,7 +3,7 @@ Kelly Peretz
 4/15/18
 
 ## Links
-GitHub: 
+GitHub: https://github.com/kperetz/project_resume_peretz_kelly
 Web Host: http://kellyperetz.com/project_resume_peretz_kelly/
 W3C validator: https://validator.w3.org/unicorn/check?ucn_uri=kellyperetz.com%2Fproject_resume_peretz_kelly%2F&ucn_task=conformance#
 HTML5 Outliner: https://gsnedders.html5.org/outliner/process.py
