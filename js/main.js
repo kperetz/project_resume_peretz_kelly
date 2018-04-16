@@ -33,3 +33,7 @@ $(function () {
         off: 200 // ms default settings effect speed
     });
 });
+
+$('section').hover(function () {
+    $(this).css('background-color', '#ffe6f2');
+});
